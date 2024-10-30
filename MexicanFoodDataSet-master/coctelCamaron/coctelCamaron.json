@@ -1,0 +1,31 @@
+{
+  "CoctelCamaron": [
+    {
+      "Ingrediente": "Camarón pacotilla",
+      "Cantidad": "150",
+      "Calorias": 159
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1/4",
+      "Calorias": 12
+    },
+    {
+      "Ingrediente": "Aguacate California",
+      "Cantidad": "1/3",
+      "Calorias": 54
+    },
+    {
+      "Ingrediente": "Cilantro picado crudo",
+      "Cantidad": "1/4",
+      "Calorias": 4
+    },
+    {
+      "Ingrediente": "Salsa catsup",
+      "Cantidad": "12",
+      "Calorias": 174
+    }
+  ],
+
+  "Procedencia": "México"
+}

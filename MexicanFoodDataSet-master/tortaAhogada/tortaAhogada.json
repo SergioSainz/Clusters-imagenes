@@ -1,0 +1,110 @@
+{
+    "TortaAhogada": [
+        {
+            "Ingrediente": "Bolillo",
+            "Cantidad": "1",
+            "Calorias": 183
+        },
+        {
+            "Ingrediente": "Carne de cerdo",
+            "Cantidad": "80",
+            "Calorias": 210
+        },
+        {
+            "Ingrediente": "Cilantro picado crudo",
+            "Cantidad": "1/4",
+            "Calorias": 3.14
+        },
+        {
+            "Ingrediente": "Jitomate saladet",
+            "Cantidad": "1",
+            "Calorias": 46.5
+        },
+        {
+            "Ingrediente": "Chiles secos",
+            "Cantidad": "5",
+            "Calorias": 11.5
+        },
+        {
+            "Ingrediente": "Frijoles refritos",
+            "Cantidad": "1/3",
+            "Calorias": 95
+        },
+        {
+            "Ingrediente": "Chile de arbol seco",
+            "Cantidad": "2",
+            "Calorias": 10.5
+        },
+        {
+            "Ingrediente": "Clavo de olor",
+            "Cantidad": "1",
+            "Calorias": 6
+        },
+        {
+            "Ingrediente": "Ajo en polvo",
+            "Cantidad": "1",
+            "Calorias": 10
+        },
+        {
+            "Ingrediente": "Cebolla cocida",
+            "Cantidad": "1/4",
+            "Calorias": 23
+        },
+        {
+            "Ingrediente": "Limon real",
+            "Cantidad": "1/4",
+            "Calorias": 7.75
+        },
+        {
+            "Ingrediente": "Agua",
+            "Cantidad": "1/8",
+            "Calorias": 0.25
+        },
+        {
+            "Ingrediente": "Sal",
+            "Cantidad": "1",
+            "Calorias": 0
+        },
+        {
+            "Ingrediente": "Comino en polvo",
+            "Cantidad": "1/2",
+            "Calorias": 3
+        },
+        {
+            "Ingrediente": "Oregano",
+            "Cantidad": "1/4",
+            "Calorias": 7.75
+        },
+        {
+            "Ingrediente": "Cebolla morada",
+            "Cantidad": "1/8",
+            "Calorias": 0.25
+        },
+        {
+            "Ingrediente": "Caldo de pollo",
+            "Cantidad": "1/4",
+            "Calorias": 4.5
+        },
+        {
+            "Ingrediente": "Aceite de oliva",
+            "Cantidad": "1",
+            "Calorias": 5
+        },
+        {
+            "Ingrediente": "Hojas de laurel",
+            "Cantidad": "1",
+            "Calorias": 3
+        },
+        {
+            "Ingrediente": "Vinagre blanco",
+            "Cantidad": "1",
+            "Calorias": 5
+        },
+        {
+            "Ingrediente": "Rabano crudo rebanado",
+            "Cantidad": "1/4",
+            "Calorias": 4.2
+        }  
+    ],
+    "Procedencia": "Jalisco"
+}

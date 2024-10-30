@@ -1,0 +1,36 @@
+{
+  "HuevosALaMexicana": [
+    {
+      "Ingrediente": "huevo",
+      "Cantidad": "4",
+      "Calorias": 63
+    },
+    {
+      "Ingrediente": "Cebolla",
+      "Cantidad": "1",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Jitomate",
+      "Cantidad": "1",
+      "Calorias": 19
+    },
+    {
+      "Ingrediente": "Chile Jalapeño",
+      "Cantidad": "2/6",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "1",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1/2",
+      "Calorias": 0
+    }
+  ],
+
+  "Procedencia": "México"
+}

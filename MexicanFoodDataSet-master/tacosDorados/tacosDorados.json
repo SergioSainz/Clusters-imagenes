@@ -1,0 +1,66 @@
+{
+  "TacosDorados": [
+    {
+      "Ingrediente": "Tortilla de maíz",
+      "Cantidad": "4",
+      "Calorias": 256
+    },
+    {
+      "Ingrediente": "Pechuga de pollo cocida",
+      "Cantidad": "125",
+      "Calorias": 200
+    },
+    {
+      "Ingrediente": "Queso panela",
+      "Cantidad": "30",
+      "Calorias": 43.5
+    },
+    {
+      "Ingrediente": "Crema ácida",
+      "Cantidad": "3",
+      "Calorias": 69
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1/2",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Tomate verde",
+      "Cantidad": "2",
+      "Calorias": 8.4
+    },
+    {
+      "Ingrediente": "Lechuga",
+      "Cantidad": "1",
+      "Calorias": 7.66
+    },
+    {
+      "Ingrediente": "Chile jalapeño",
+      "Cantidad": "1",
+      "Calorias": 16.33
+    },
+    {
+      "Ingrediente": "Aceite comestible",
+      "Cantidad": "5",
+      "Calorias": 220
+    },
+    {
+      "Ingrediente": "Tomate verde",
+      "Cantidad": "2",
+      "Calorias": 8.4
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "4/6",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1/6",
+      "Calorias": 1.666
+    }
+  ],
+
+  "Procedencia": "México"
+}

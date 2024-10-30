@@ -1,0 +1,51 @@
+{
+  "chochinitaPibil": [
+    {
+      "Ingrediente": "Achiote",
+      "Cantidad": "62",
+      "Calorias": 10
+    },
+    {
+      "Ingrediente": "Carne de cerdo",
+      "Cantidad": "25",
+      "Calorias": 105
+    },
+    {
+      "Ingrediente": "Naranja",
+      "Cantidad": "7",
+      "Calorias": 31
+    },
+    {
+      "Ingrediente": "Limón real",
+      "Cantidad": "5/2",
+      "Calorias": 31
+    },
+    {
+      "Ingrediente": "Vinagre",
+      "Cantidad": "25/2",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Cebolla morada",
+      "Cantidad": "2",
+      "Calorias": 58
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "3",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Aceite de oliva",
+      "Cantidad": "2",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1",
+      "Calorias": 2
+    }
+  ],
+
+  "Procedencia": "México-Yucatán"
+}

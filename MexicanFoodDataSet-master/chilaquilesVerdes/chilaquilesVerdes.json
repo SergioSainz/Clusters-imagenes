@@ -1,0 +1,66 @@
+{
+  "chilaquilesverdes": [
+    {
+      "Ingrediente": "Tomate verde",
+      "Cantidad": "5",
+      "kiloCalorias": 21
+    },
+    {
+      "Ingrediente": "Chile seco",
+      "Cantidad": "4",
+      "kiloCalorias": 9.2
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "1",
+      "kiloCalorias": 2
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1/2",
+      "kiloCalorias": 23
+    },
+    {
+      "Ingrediente": "Tortilla de maíz",
+      "Cantidad": "4",
+      "kiloCalorias": 256
+    },
+    {
+      "Ingrediente": "Queso panela",
+      "Cantidad": "20",
+      "kiloCalorias": 29
+    },
+    {
+      "Ingrediente": "Crema ácida",
+      "Cantidad": "3",
+      "kiloCalorias": 69
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1/6",
+      "kiloCalorias": 1.666
+    },
+    {
+      "Ingrediente": "Aceite comestible",
+      "Cantidad": "10",
+      "kiloCalorias": 490
+    },
+    {
+      "Ingrediente": "Pollo crudo en piezas",
+      "Cantidad": "150",
+      "kiloCalorias": 182.5
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "4/6",
+      "kiloCalorias": 0
+    },
+    {
+      "Ingrediente": "Caldo de pollo",
+      "Cantidad": "1/4",
+      "kiloCalorias": 4.5
+    }
+  ],
+
+  "Procedencia": "México"
+}

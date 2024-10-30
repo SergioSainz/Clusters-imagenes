@@ -1,0 +1,71 @@
+{
+  "PastelAzteca": [
+    {
+      "Ingrediente": "Pechuga de pollo cocida",
+      "Cantidad": "4",
+      "Calorias": "100"
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "3/16",
+      "Calorias": "4.25"
+    },
+    {
+      "Ingrediente": "Chile poblano",
+      "Cantidad": "1/4",
+      "Calorias": "7.5"
+    },
+    {
+      "Ingrediente": "Calabacita redonda cruda",
+      "Cantidad": "1/2",
+      "Calorias": "4.5"
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "3 1/4",
+      "Calorias": "16.25"
+    },
+    {
+      "Ingrediente": "Perejil crudo picado",
+      "Cantidad": "1/20",
+      "Calorias": "3"
+    },
+    {
+      "Ingrediente": "Elote amarillo desgranado cocido",
+      "Cantidad": "1/4",
+      "Calorias": "33"
+    },
+    {
+      "Ingrediente": "Tomate verde",
+      "Cantidad": "1",
+      "Calorias": "21"
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1/4",
+      "Calorias": "2.5"
+    },
+    {
+      "Ingrediente": "Crema",
+      "Cantidad": "6 1/2",
+      "Calorias": "169"
+    },
+    {
+      "Ingrediente": "Chile chipotle seco",
+      "Cantidad": "7/16",
+      "Calorias": "6.25"
+    },
+    {
+      "Ingrediente": "Queso manchego",
+      "Cantidad": "1 1/4",
+      "Calorias": "135"
+    },
+    {
+      "Ingrediente": "Tortilla de maiz",
+      "Cantidad": "3 3/4",
+      "Calorias": "243.75"
+    }
+  ],
+
+  "Procedencia": "México-Centro de México"
+}

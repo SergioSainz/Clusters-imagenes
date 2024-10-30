@@ -1,0 +1,46 @@
+{
+  "Molletes": [
+    {
+      "Ingrediente": "Pan bolillo",
+      "Cantidad": "2",
+      "Calorías": 326
+    },
+    {
+      "Ingrediente": "Frijoles refritos",
+      "Cantidad": "100",
+      "Calorías": 340
+    },
+    {
+      "Ingrediente": "Queso manchego",
+      "Cantidad": "250",
+      "Calorías": 1020
+    },
+    {
+      "Ingrediente": "Jitomate",
+      "Cantidad": "1",
+      "Calorías": 20
+    },
+    {
+      "Ingrediente": "Cebolla blanca",
+      "Cantidad": "1/2",
+      "Calorías": 23
+    },
+    {
+      "Ingrediente": "Chile serrano",
+      "Cantidad": "1",
+      "Calorías": 3.83
+    },
+    {
+      "Ingrediente": "Cilantro",
+      "Cantidad": "1/5",
+      "Calorías": 2.74
+    },
+    {
+      "Ingrediente": "Mantequilla",
+      "Cantidad": "10",
+      "Calorías": 78.3
+    }
+  ],
+
+  "Procedencia": "México-CDMX"
+}

@@ -1,0 +1,96 @@
+{
+  "BurritoArrachera": [
+    {
+      "Ingrediente": "Harina de trigo",
+      "Cantidad": "4",
+      "Calorias": 1818
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1/3",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Polvo para hornear",
+      "Cantidad": "2",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Manteca vegetal",
+      "Cantidad": "48",
+      "Calorias": 1824
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "1",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1/3",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Pancita de puerco",
+      "Cantidad": "5.42",
+      "Calorias": 300
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1",
+      "Calorias": 96
+    },
+    {
+      "Ingrediente": "Pimiento verde crudo chico",
+      "Cantidad": "1",
+      "Calorias": 72
+    },
+    {
+      "Ingrediente": "Pimiento rojo crudo chico",
+      "Cantidad": "1",
+      "Calorias": 72
+    },
+    {
+      "Ingrediente": "Arrachera de res",
+      "Cantidad": "16.66",
+      "Calorias": 933
+    },
+    {
+      "Ingrediente": "Salsa inglesa",
+      "Cantidad": "3",
+      "Calorias": 48
+    },
+    {
+      "Ingrediente": "Ajo picado",
+      "Cantidad": "2",
+      "Calorias": 4
+    },
+    {
+      "Ingrediente": "Or�gano molido",
+      "Cantidad": "6",
+      "Calorias": 30
+    },
+    {
+      "Ingrediente": "Comino",
+      "Cantidad": "3",
+      "Calorias": 21
+    },
+    {
+      "Ingrediente": "Lim�n",
+      "Cantidad": "1/4",
+      "Calorias": 8
+    },
+    {
+      "Ingrediente": "Cerveza",
+      "Cantidad": "1",
+      "Calorias": 153
+    },
+    {
+      "Ingrediente": "Aguacate hass",
+      "Cantidad": "3",
+      "Calorias": 162
+    }
+  ],
+
+  "Procedencia": "México-Chihuahua"
+}

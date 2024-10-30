@@ -1,0 +1,46 @@
+{
+  "TingaDePollo": [
+    {
+      "Ingrediente": "Cebolla cocida",
+      "Cantidad": "4",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Jitomate",
+      "Cantidad": "4",
+      "Calorias": 20
+    },
+    {
+      "Ingrediente": "Pechuga de pollo cocida",
+      "Cantidad": "16",
+      "Calorias": 40
+    },
+    {
+      "Ingrediente": "Chile chipotle seco",
+      "Cantidad": "9/4",
+      "Calorias": 25
+    },
+    {
+      "Ingrediente": "Aceite comestible",
+      "Cantidad": "6",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Caldo de pollo",
+      "Cantidad": "2",
+      "Calorias": 9
+    },
+    {
+      "Ingrediente": "Laurel",
+      "Cantidad": "1",
+      "Calorias": 6
+    }
+  ],
+
+  "Procedencia": "México-Puebla"
+}

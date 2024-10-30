@@ -1,0 +1,95 @@
+{
+  "birria":[
+     {
+        "Ingrediente":"Carne de res",
+        "Cantidad":"125",
+        "Calorias":54
+     },
+     {
+        "Ingrediente":"Pulpa de res",
+        "Cantidad":"125",
+        "Calorias":87
+     },
+     {
+        "Ingrediente":"Agua",
+        "Cantidad":"3/4",
+        "Calorias":2
+     },
+     {
+        "Ingrediente":"Chiles secos",
+        "Cantidad":"12",
+        "Calorias":23
+     },
+     {
+        "Ingrediente":"Chile cascabel",
+        "Cantidad":"5",
+        "Calorias":8
+     },
+     {
+        "Ingrediente":"Jitomate guaje o saladet",
+        "Cantidad":"1",
+        "Calorias":22
+     },
+     {
+        "Ingrediente":"Ajo en polvo",
+        "Cantidad":"3/8",
+        "Calorias":5
+     },
+     {
+        "Ingrediente":"Comino",
+        "Cantidad":"1/16",
+        "Calorias":7
+     },
+     {
+        "Ingrediente":"Pimienta negra",
+        "Cantidad":"1/16",
+        "Calorias":5
+     },
+     {
+        "Ingrediente":"Clavo de olor",
+        "Cantidad":"3/8",
+        "Calorias":6
+     },
+     {
+        "Ingrediente":"Orégano",
+        "Cantidad":"1/8",
+        "Calorias":6
+     },
+     {
+        "Ingrediente":"Mejorana",
+        "Cantidad":"1/16",
+        "Calorias":3
+     },
+     {
+        "Ingrediente":"Cebolla blanca rebanada",
+        "Cantidad":"1/8",
+        "Calorias":23
+     },
+     {
+        "Ingrediente":"Canela en raja",
+        "Cantidad":"1/8",
+        "Calorias":5
+     },
+     {
+        "Ingrediente":"Vinagre blanco",
+        "Cantidad":"7/8",
+        "Calorias":1
+     },
+     {
+        "Ingrediente":"Sal",
+        "Cantidad":"1/16",
+        "Calorias":0
+     },
+     {
+        "Ingrediente":"Hoja de aguacate",
+        "Cantidad":"1/4",
+        "Calorias":1
+     },
+     {
+        "Ingrediente":"Cilantro picado crudo",
+        "Cantidad":"1/16",
+        "Calorias":24
+     }
+  ],
+  "Procedencia":"México-Jalisco"
+}

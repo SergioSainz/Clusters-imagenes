@@ -1,0 +1,101 @@
+{
+  "Chiles en Nogada": [
+    {
+      "Ingrediente": "Chile Poblano",
+      "Cantidad": "8",
+      "Calorias": 129
+    },
+    {
+      "Ingrediente": "Bola de res",
+      "Cantidad": "300",
+      "Calorias": 107
+    },
+    {
+      "Ingrediente": "Carne de cerdo",
+      "Cantidad": "300",
+      "Calorias": 98
+    },
+    {
+      "Ingrediente": "Platano Macho",
+      "Cantidad": "1",
+      "Calorias": 48
+    },
+    {
+      "Ingrediente": "Durazno",
+      "Cantidad": "1",
+      "Calorias": 4
+    },
+    {
+      "Ingrediente": "Manzana",
+      "Cantidad": "2",
+      "Calorias": 14
+    },
+    {
+      "Ingrediente": "Cebolla",
+      "Cantidad": "1/2",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Dientes de ajo",
+      "Cantidad": "2",
+      "Calorias": 1
+    },
+    {
+      "Ingrediente": "Pasas",
+      "Cantidad": "64",
+      "Calorias": 24
+    },
+    {
+      "Ingrediente": "Almendras",
+      "Cantidad": "64",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Nueces",
+      "Cantidad": "80",
+      "Calorias": 78
+    },
+    {
+      "Ingrediente": "Crema",
+      "Cantidad": "8",
+      "Calorias": 43
+    },
+    {
+      "Ingrediente": "Queso de cabra",
+      "Cantidad": "104",
+      "Calorias": 36
+    },
+    {
+      "Ingrediente": "Crema batida",
+      "Cantidad": "4",
+      "Calorias": 34
+    },
+    {
+      "Ingrediente": "Leche",
+      "Cantidad": "8",
+      "Calorias": 148
+    },
+    {
+      "Ingrediente": "Azucar",
+      "Cantidad": "2",
+      "Calorias": 4
+    },
+    {
+      "Ingrediente": "Piñon",
+      "Cantidad": "8",
+      "Calorias": 64
+    },
+    {
+      "Ingrediente": "Granada roja",
+      "Cantidad": "2",
+      "Calorias": 46
+    },
+    {
+      "Ingrediente": "Aceite de olivo",
+      "Cantidad": "8",
+      "Calorias": 44
+    }
+  ],
+
+  "Procedencia": "México-Puebla"
+}

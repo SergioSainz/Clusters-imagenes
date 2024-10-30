@@ -1,0 +1,46 @@
+{
+  "QuesadillasDePollo": [
+    {
+      "Ingrediente": "Tortilla",
+      "Cantidad": "3",
+      "Calorias": 192
+    },
+    {
+      "Ingrediente": "Pechuga desmenuzada",
+      "Cantidad": "32",
+      "Calorias": 36
+    },
+    {
+      "Ingrediente": "Queso oaxaca",
+      "Cantidad": "200",
+      "Calorias": 633
+    },
+    {
+      "Ingrediente": "Perejil crudo picado",
+      "Cantidad": "0.25",
+      "Calorias": 5.5
+    },
+    {
+      "Ingrediente": "Cebolla blanca",
+      "Cantidad": "1/4",
+      "Calorias": 11.5
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "1",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1/2",
+      "Calorias": 5
+    }
+  ],
+
+  "Procedencia": "México"
+}

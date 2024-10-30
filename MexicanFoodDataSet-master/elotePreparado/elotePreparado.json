@@ -1,0 +1,26 @@
+{
+  "ElotePreparado": [
+    {
+      "Ingrediente": "Chile piquín molido",
+      "Cantidad": "3",
+      "Calorias": 30
+    },
+    {
+      "Ingrediente": "Mayonesa",
+      "Cantidad": "12",
+      "Calorias": 408
+    },
+    {
+      "Ingrediente": "Queso panela",
+      "Cantidad": "113",
+      "Calorias": 164
+    },
+    {
+      "Ingrediente": "Elote amarillo cocido",
+      "Cantidad": "1",
+      "Calorias": 48
+    }
+  ],
+
+  "procedencia": "México"
+}

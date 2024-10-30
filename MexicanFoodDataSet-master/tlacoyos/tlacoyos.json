@@ -1,0 +1,29 @@
+{
+  "Tlacoyos": [
+    {
+      "Ingrediente": "Masa",
+      "Cantidad": "50 gr",
+      "Calorias": 183
+    },
+    {
+      "Ingrediente": "Cebolla",
+      "Cantidad": "1 cucharada",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Queso",
+      "Cantidad": "1 cucharada",
+      "Calorias": 15
+    },
+    {
+      "Ingrediente": "Cilantro",
+      "Cantidad": "1 cucharada",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Frijol",
+      "Cantidad": "20 gramos",
+      "Calorias": 18
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "PicoGallo": [
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Jitomate guaje o saladet",
+      "Cantidad": "1",
+      "Calorias": 22
+    },
+    {
+      "Ingrediente": "Cilantro picado crudo",
+      "Cantidad": "2/21",
+      "Calorias": 24
+    },
+    {
+      "Ingrediente": "Chile jalapeño",
+      "Cantidad": "1/4",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Jugo de limón",
+      "Cantidad": "1/24",
+      "Calorias": 45
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1",
+      "Calorias": 0
+    }
+  ],
+
+  "Procedencia": "México"
+}

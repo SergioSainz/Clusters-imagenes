@@ -1,0 +1,56 @@
+{
+  "Huaraches": [
+    {
+      "Ingrediente": "Masa de maiz",
+      "Cantidad": "12",
+      "Calorias": 69
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "1",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1/2",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "2",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Frijoles refritos",
+      "Cantidad": "2",
+      "Calorias": 95
+    },
+    {
+      "Ingrediente": "Salsa Verde",
+      "Cantidad": "1",
+      "Calorias": 28
+    },
+    {
+      "Ingrediente": "Cebolla",
+      "Cantidad": "1",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Queso",
+      "Cantidad": "5",
+      "Calorias": 58
+    },
+    {
+      "Ingrediente": "Bistec",
+      "Cantidad": "5",
+      "Calorias": 36
+    },
+    {
+      "Ingrediente": "Crema",
+      "Cantidad": "4",
+      "Calorias": 43
+    }
+  ],
+
+  "Procedencia": "México-CDMX"
+}

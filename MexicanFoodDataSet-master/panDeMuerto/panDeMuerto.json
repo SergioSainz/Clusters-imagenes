@@ -1,0 +1,41 @@
+{
+  "PanDeMuerto": [
+    {
+      "Ingrediente": "Harina de trigo para panificación",
+      "Cantidad": "32",
+      "Calorias": 62
+    },
+    {
+      "Ingrediente": "Huevo entero fresco",
+      "Cantidad": "7",
+      "Calorias": 63
+    },
+    {
+      "Ingrediente": "Azúcar blanca",
+      "Cantidad": "12",
+      "Calorias": 33
+    },
+    {
+      "Ingrediente": "Levadura fresca",
+      "Cantidad": "4",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Mantequilla fresca",
+      "Cantidad": "25/2",
+      "Calorias": 4
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "1/4",
+      "Calorias": 2
+    }
+  ],
+
+  "Procedencia": "México"
+}

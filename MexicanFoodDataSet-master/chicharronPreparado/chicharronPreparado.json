@@ -1,0 +1,41 @@
+{
+  "chicharronPreparado": [
+    {
+      "Ingrediente": "Chicharron",
+      "Cantidad": "1",
+      "Calorias": 174
+    },
+    {
+      "Ingrediente": "Crema",
+      "Cantidad": "1",
+      "Calorias": 37
+    },
+    {
+      "Ingrediente": "Cueritos",
+      "Cantidad": "1/4",
+      "Calorias": 93
+    },
+    {
+      "Ingrediente": "Jitomate",
+      "Cantidad": "1/4",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Aguacate",
+      "Cantidad": "1/4",
+      "Calorias": 40
+    },
+    {
+      "Ingrediente": "Col",
+      "Cantidad": "1 1/2",
+      "Calorias": 20
+    },
+    {
+      "Ingrediente": "Salsa Valentina",
+      "Cantidad": "5",
+      "Calorias": 1
+    }
+  ],
+
+  "Procedencia": "México"
+}

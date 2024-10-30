@@ -1,0 +1,86 @@
+{
+  "MoleDeOlla": [
+    {
+      "Ingrediente": "Chambarete de res",
+      "Cantidad": "125",
+      "Calorias": 42
+    },
+    {
+      "Ingrediente": "Empuje de res",
+      "Cantidad": "80",
+      "Calorias": 37
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "3/4",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Chiles secos",
+      "Cantidad": "13",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Elotitos de cambray",
+      "Cantidad": "1/2",
+      "Calorias": 26
+    },
+    {
+      "Ingrediente": "Xoconostle",
+      "Cantidad": "1/2",
+      "Calorias": 18
+    },
+    {
+      "Ingrediente": "Consomé de res en cubo",
+      "Cantidad": "1/3",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Ejotes cocidos picados",
+      "Cantidad": "1/3",
+      "Calorias": 22
+    },
+    {
+      "Ingrediente": "Zanahoria miniatura cruda",
+      "Cantidad": "2/3",
+      "Calorias": 16
+    },
+    {
+      "Ingrediente": "Calabacita alargada cruda",
+      "Cantidad": "2/3",
+      "Calorias": 21
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1/12",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Papa",
+      "Cantidad": "1/6",
+      "Calorias": 72
+    },
+    {
+      "Ingrediente": "Chayote crudo",
+      "Cantidad": "1/3",
+      "Calorias": 19
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1/3",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Jitomate",
+      "Cantidad": "70",
+      "Calorias": 20
+    },
+    {
+      "Ingrediente": "Hojas de laurel",
+      "Cantidad": "1/6",
+      "Calorias": 3
+    }
+  ],
+
+  "Procedencia": "México-Estado de México"
+}

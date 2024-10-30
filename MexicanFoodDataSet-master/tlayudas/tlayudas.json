@@ -1,0 +1,56 @@
+{
+  "Tlayudas": [
+    {
+      "Ingrediente": "Longaniza",
+      "Cantidad": "50",
+      "Calorias": 78
+    },
+    {
+      "Ingrediente": "Manteca de cerdo",
+      "Cantidad": "4",
+      "Calorias": 160
+    },
+    {
+      "Ingrediente": "Tlayuda",
+      "Cantidad": "1",
+      "Calorias": 256
+    },
+    {
+      "Ingrediente": "Frijoles refritos",
+      "Cantidad": "1/3",
+      "Calorias": 95
+    },
+    {
+      "Ingrediente": "Cecina",
+      "Cantidad": "125",
+      "Calorias": 216
+    },
+    {
+      "Ingrediente": "Queso Oaxaca",
+      "Cantidad": "100",
+      "Calorias": 285
+    },
+    {
+      "Ingrediente": "Aguacate",
+      "Cantidad": "1/2",
+      "Calorias": 46
+    },
+    {
+      "Ingrediente": "Cebolla blanca",
+      "Cantidad": "1/4",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Jitomate Saladet",
+      "Cantidad": "1",
+      "Calorias": 11
+    },
+    {
+      "Ingrediente": "Lechuga",
+      "Cantidad": "1/2",
+      "Calorias": 6
+    }
+  ],
+
+  "Procedencia": "México-Querétaro"
+}

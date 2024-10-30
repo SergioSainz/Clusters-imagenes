@@ -1,0 +1,96 @@
+{
+  "PozoleVerdeDePollo": [
+    {
+      "Ingrediente": "Maíz pozolero",
+      "Cantidad": "1/8",
+      "Calorías": 134.25
+    },
+    {
+      "Ingrediente": "Pechuga de pollo",
+      "Cantidad": "1/8",
+      "Calorías": 121.38
+    },
+    {
+      "Ingrediente": "Ajo",
+      "Cantidad": "1/8",
+      "Calorías": 4
+    },
+    {
+      "Ingrediente": "Tomate verde",
+      "Cantidad": "1",
+      "Calorías": 4.2
+    },
+    {
+      "Ingrediente": "Cebolla blanca",
+      "Cantidad": "1/8",
+      "Calorías": 5
+    },
+    {
+      "Ingrediente": "Limón",
+      "Cantidad": "1",
+      "Calorías": 7.75
+    },
+    {
+      "Ingrediente": "Pimienta negra molida",
+      "Cantidad": "1/8",
+      "Calorías": 0.625
+    },
+    {
+      "Ingrediente": "Chile serrano",
+      "Cantidad": "1/5",
+      "Calorías": 0.83
+    },
+    {
+      "Ingrediente": "Aguacate",
+      "Cantidad": "1/8",
+      "Calorías": 20.25
+    },
+    {
+      "Ingrediente": "Caldo de pollo",
+      "Cantidad": "1/5",
+      "Calorías": 15.21
+    },
+    {
+      "Ingrediente": "Rábano",
+      "Cantidad": "3/4",
+      "Calorías": 8.5
+    },
+    {
+      "Ingrediente": "Cilantro",
+      "Cantidad": "1/8",
+      "Calorías": 2.8
+    },
+    {
+      "Ingrediente": "Perejil",
+      "Cantidad": "1/8",
+      "Calorías": 2.2
+    },
+    {
+      "Ingrediente": "Hoja de lechuga",
+      "Cantidad": "3/4",
+      "Calorías": 1
+    },
+    {
+      "Ingrediente": "Comino molido",
+      "Cantidad": "1/8",
+      "Calorías": 1.5
+    },
+    {
+      "Ingrediente": "Orégano seco",
+      "Cantidad": "1",
+      "Calorías": 5
+    },
+    {
+      "Ingrediente": "Rama de epazote",
+      "Cantidad": "1/3",
+      "Calorías": 1.3
+    },
+    {
+      "Ingrediente": "Chile poblano",
+      "Cantidad": "2/3",
+      "Calorías": 20
+    }
+  ],
+
+  "Procedencia": "México-Guerrero"
+}

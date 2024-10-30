@@ -1,0 +1,46 @@
+{
+  "Romeritos": [
+    {
+      "Ingrediente": "Nopal crudo",
+      "Cantidad": "3/4",
+      "Calorias": 22
+    },
+    {
+      "Ingrediente": "Papa cocida",
+      "Cantidad": "2",
+      "Calorias": 54
+    },
+    {
+      "Ingrediente": "Romeritos crudos",
+      "Cantidad": "2",
+      "Calorias": 26
+    },
+    {
+      "Ingrediente": "Mole",
+      "Cantidad": "5",
+      "Calorias": 79
+    },
+    {
+      "Ingrediente": "Caldo de pollo",
+      "Cantidad": "2",
+      "Calorias": 9
+    },
+    {
+      "Ingrediente": "Consomé de camarón en polvo",
+      "Cantidad": "5/2",
+      "Calorias": 8
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "15",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Huevo entero fresco",
+      "Cantidad": "1",
+      "Calorias": 63
+    }
+  ],
+
+  "Procedencia": "México"
+}

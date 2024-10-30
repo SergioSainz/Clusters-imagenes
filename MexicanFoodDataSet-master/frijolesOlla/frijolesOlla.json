@@ -1,0 +1,26 @@
+{
+  "Frijoles de olla": [
+    {
+      "Ingrediente": "Frijol promedio crudo",
+      "Cantidad": "17",
+      "Calorias": 119
+    },
+    {
+      "Ingrediente": "Aceite de oliva",
+      "Cantidad": "1",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Cebolla cocida",
+      "Cantidad": "1",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1",
+      "Calorias": 5
+    }
+  ],
+
+  "Procedencia": "México"
+}

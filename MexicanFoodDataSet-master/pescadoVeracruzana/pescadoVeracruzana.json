@@ -1,0 +1,76 @@
+{
+  "Tlayudas": [
+    {
+      "Ingrediente": "Filete de pescado",
+      "Cantidad": "2",
+      "Calorias": 72
+    },
+    {
+      "Ingrediente": "Limon",
+      "Cantidad": "10",
+      "Calorias": 40
+    },
+    {
+      "Ingrediente": "Aceite de oliva",
+      "Cantidad": "5",
+      "Calorias": 220
+    },
+    {
+      "Ingrediente": "Cebolla blanca",
+      "Cantidad": "1/2",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Ajo",
+      "Cantidad": "2",
+      "Calorias": 20
+    },
+    {
+      "Ingrediente": "Jitomate saladet",
+      "Cantidad": "1",
+      "Calorias": 11
+    },
+    {
+      "Ingrediente": "Pimiento verde",
+      "Cantidad": "1/2",
+      "Calorias": 9
+    },
+    {
+      "Ingrediente": "Pimineto amarilo",
+      "Cantidad": "1/2",
+      "Calorias": 9
+    },
+    {
+      "Ingrediente": "Pure de tomate",
+      "Cantidad": "2",
+      "Calorias": 192
+    },
+    {
+      "Ingrediente": "Laurel",
+      "Cantidad": "2",
+      "Calorias": 6
+    },
+    {
+      "Ingrediente": "Aceituna verde",
+      "Cantidad": "12",
+      "Calorias": 66
+    },
+    {
+      "Ingrediente": "Alcaparras",
+      "Cantidad": "2",
+      "Calorias": 4
+    },
+    {
+      "Ingrediente": "Oregano seco",
+      "Cantidad": "1",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Chile chilaca",
+      "Cantidad": "1",
+      "Calorias": 19
+    }
+  ],
+
+  "Procedencia": "México-Veracruz"
+}

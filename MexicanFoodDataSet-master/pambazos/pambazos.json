@@ -1,0 +1,56 @@
+{
+  "Pambazos": [
+    {
+      "Ingrediente": "Chile guajillo",
+      "Cantidad": "2",
+      "Calorias": 8.5
+    },
+    {
+      "Ingrediente": "Cebolla",
+      "Cantidad": "1/8",
+      "Calorias": 11.5
+    },
+    {
+      "Ingrediente": "Diente de ajo",
+      "Cantidad": "1/4",
+      "Calorias": 1
+    },
+    {
+      "Ingrediente": "Chorizo",
+      "Cantidad": "95",
+      "Calorias": 405
+    },
+    {
+      "Ingrediente": "Papas",
+      "Cantidad": "1/4",
+      "Calorias": 36.5
+    },
+    {
+      "Ingrediente": "Pambazo (Pan)",
+      "Cantidad": "1",
+      "Calorias": 77
+    },
+    {
+      "Ingrediente": "Lechuga",
+      "Cantidad": "1/4",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Crema",
+      "Cantidad": "1/8",
+      "Calorias": 88
+    },
+    {
+      "Ingrediente": "Queso",
+      "Cantidad": "60",
+      "Calorias": 180.5
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "",
+      "Calorias": 14.6
+    }
+  ],
+
+  "Procedencia": "México-CDMX"
+}

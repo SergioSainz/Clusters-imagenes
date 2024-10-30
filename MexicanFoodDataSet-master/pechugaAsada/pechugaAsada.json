@@ -1,0 +1,31 @@
+{
+  "PechugaAsada": [
+    {
+      "Ingrediente": "Pechuga de pollo",
+      "Cantidad": "1",
+      "Calorias": "200"
+    },
+    {
+      "Ingrediente": "Limon",
+      "Cantidad": "1",
+      "Calorias": "7.75"
+    },
+    {
+      "Ingrediente": "Aceite de soya",
+      "Cantidad": "3",
+      "Calorias": "132"
+    },
+    {
+      "Ingrediente": "Sal de apio",
+      "Cantidad": "1",
+      "Calorias": "4"
+    },
+    {
+      "Ingrediente": "Pimienta",
+      "Cantidad": "1",
+      "Calorias": "5"
+    }
+  ],
+
+  "Procedencia": "México"
+}

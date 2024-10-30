@@ -1,0 +1,46 @@
+{
+  "Sopes": [
+    {
+      "Ingrediente": "Masa de maiz",
+      "Cantidad": "125g",
+      "Calorias": 191.66
+    },
+    {
+      "Ingrediente": "Frijoles refritos",
+      "Cantidad": "1/4 de taza",
+      "Calorias": 71.25
+    },
+    {
+      "Ingrediente": "Queso fresco",
+      "Cantidad": "25g",
+      "Calorias": 36.25
+    },
+    {
+      "Ingrediente": "Lechuga",
+      "Cantidad": "45g",
+      "Calorias": 7.66
+    },
+    {
+      "Ingrediente": "Diente de ajo",
+      "Cantidad": "1/8 de pieza",
+      "Calorias": 0.5
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "0.75g",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Cebolla blanca",
+      "Cantidad": "1/8 de taza",
+      "Calorias": 5.75
+    },
+    {
+      "Ingrediente": "crema",
+      "Cantidad": "2 cucharadas",
+      "Calorias": 52
+    }
+  ],
+
+  "Procedencia": "México"
+}

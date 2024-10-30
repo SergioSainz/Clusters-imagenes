@@ -1,0 +1,39 @@
+{
+  "enfrijoladas": [
+    {
+      "Ingrediente": "Longaniza de primera",
+      "Cantidad": "14/5",
+      "Calorias": 218.4
+    },
+    {
+      "Ingrediente": "Pechuga de pollo sin piel",
+      "Cantidad": "4/5",
+      "Calorias": 46.4
+    },
+    {
+      "Ingrediente": "Frijol molido",
+      "Cantidad": "58/5",
+      "Calorias": 1113.6
+    },
+    {
+      "Ingrediente": "Tortilla",
+      "Cantidad": "4",
+      "Calorias": 256
+    },
+    {
+      "Ingrediente": "Chile chipotle seco",
+      "Cantidad": "1.14",
+      "Calorias": 28.5
+    },
+    {
+      "Ingrediente": "Queso panela",
+      "Cantidad": "2.5",
+      "Calorias": 145
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1",
+      "Calorias": 0
+    }
+  ]
+}

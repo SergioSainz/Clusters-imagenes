@@ -1,0 +1,46 @@
+{
+  "enchiladasHuastecas": [
+    {
+      "Ingrediente": "Chiles serranos",
+      "Cantidad": "10",
+      "Calorias": 20
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "4",
+      "Calorias": 176
+    },
+    {
+      "Ingrediente": "Cebolla",
+      "Cantidad": "1/2",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Jitomate",
+      "Cantidad": "8",
+      "Calorias": 160
+    },
+    {
+      "Ingrediente": "Queso Blanco",
+      "Cantidad": "300",
+      "Calorias": 660
+    },
+    {
+      "Ingrediente": "Cecina",
+      "Cantidad": "500",
+      "Calorias": 980
+    },
+    {
+      "Ingrediente": "Frijoles Refritos",
+      "Cantidad": "1",
+      "Calorias": 367
+    },
+    {
+      "Ingrediente": "Tortillas",
+      "Cantidad": "5",
+      "Calorias": 32
+    }
+  ],
+
+  "Procedencia": "México-Huasteca-Hidalguense"
+}

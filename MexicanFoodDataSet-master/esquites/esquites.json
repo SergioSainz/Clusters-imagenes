@@ -1,0 +1,64 @@
+{
+  "esquites": [
+    {
+      "Ingrediente": "Elote blanco desgranado",
+      "Cantidad": "1",
+      "Calorias": 132
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1/2",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Margarina",
+      "Cantidad": "3",
+      "Calorias": 117
+    },
+    {
+      "Ingrediente": "Epazote",
+      "Cantidad": "100",
+      "Calorias": 32
+    },
+    {
+      "Ingrediente": "Queso cotija",
+      "Cantidad": "15",
+      "Calorias": 43.5
+    },
+    {
+      "Ingrediente": "Pimienta negra entera",
+      "Cantidad": "1/12",
+      "Calorias": 0.75
+    },
+    {
+      "Ingrediente": "Mayonesa",
+      "Cantidad": "2",
+      "Calorias": 68
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1/6",
+      "Calorias": 1.666
+    },
+    {
+      "Ingrediente": "Chile piquin molido",
+      "Cantidad": "1/4",
+      "Calorias": 2.5
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "1",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "4/6",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Caldo de pollo",
+      "Cantidad": "1/4",
+      "Calorias": 4.5
+    }
+  ]
+}

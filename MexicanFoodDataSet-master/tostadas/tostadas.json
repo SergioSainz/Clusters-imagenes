@@ -1,0 +1,61 @@
+{
+  "TostadasPreparadas": [
+    {
+      "Ingrediente": "Falda de res",
+      "Cantidad": "150",
+      "Calorias": 249
+    },
+    {
+      "Ingrediente": "Cebollas",
+      "Cantidad": "1/8",
+      "Calorias": 11.5
+    },
+    {
+      "Ingrediente": "Diente de ajo",
+      "Cantidad": "1/3",
+      "Calorias": 1.3
+    },
+    {
+      "Ingrediente": "Hojas de laurel",
+      "Cantidad": "1/2",
+      "Calorias": 0.7
+    },
+    {
+      "Ingrediente": "Jitomates",
+      "Cantidad": "1/2",
+      "Calorias": 18
+    },
+    {
+      "Ingrediente": "Chile chipotle",
+      "Cantidad": "1/8",
+      "Calorias": 1.7
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "1/6",
+      "Calorias": 7.3
+    },
+    {
+      "Ingrediente": "Tostadas",
+      "Cantidad": "2",
+      "Calorias": 125.3
+    },
+    {
+      "Ingrediente": "Frijol",
+      "Cantidad": "1/6",
+      "Calorias": 120
+    },
+    {
+      "Ingrediente": "Lechuga",
+      "Cantidad": "1/4",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Crema",
+      "Cantidad": "1/8",
+      "Calorias": 88
+    }
+  ],
+
+  "Procedencia": "México-Puebla"
+}

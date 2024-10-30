@@ -1,0 +1,61 @@
+{
+  "TampiqueñaRes": [
+    {
+      "Ingrediente": "Filete Tampiqueña",
+      "Cantidad": "1",
+      "Calorias": 144
+    },
+    {
+      "Ingrediente": "Chile Poblano",
+      "Cantidad": "1/4",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Chile Serrano",
+      "Cantidad": "1",
+      "Calorias": 32
+    },
+    {
+      "Ingrediente": "Cebolla",
+      "Cantidad": "3/8",
+      "Calorias": 20
+    },
+    {
+      "Ingrediente": "Cebolla Cambray",
+      "Cantidad": "3",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "4",
+      "Calorias": 176
+    },
+    {
+      "Ingrediente": "Jitomate",
+      "Cantidad": "7/4",
+      "Calorias": 33
+    },
+    {
+      "Ingrediente": "Aguacate",
+      "Cantidad": "3/4",
+      "Calorias": 122
+    },
+    {
+      "Ingrediente": "Tortilla",
+      "Cantidad": "4",
+      "Calorias": 256
+    },
+    {
+      "Ingrediente": "Queso Asadero",
+      "Cantidad": "1",
+      "Calorias": 100
+    },
+    {
+      "Ingrediente": "Frijoles Refritos",
+      "Cantidad": "1/8",
+      "Calorias": 121
+    }
+  ],
+
+  "Procedencia": "México-Tamaulipas"
+}

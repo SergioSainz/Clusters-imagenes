@@ -1,0 +1,57 @@
+{
+  "EnchiladasVerdes": [
+    {
+      "Ingrediente": "Crema",
+      "Cantidad": "2",
+      "Calorias": 43
+    },
+    {
+      "Ingrediente": "Cebolla blanca",
+      "Cantidad": "1/4",
+      "Calorias": 11.5
+    },
+
+    {
+      "Ingrediente": "Chile Serrano",
+      "Cantidad": "1 1/2",
+      "Calorias": "40.8"
+    },
+    {
+      "Ingrediente": "Tortilla",
+      "Cantidad": "3",
+      "Calorias": 192
+    },
+    {
+      "Ingrediente": "Tomate verde",
+      "Cantidad": "5",
+      "Calorias": 21
+    },
+    {
+      "Ingrediente": "Queso rallado",
+      "Cantidad": "6",
+      "Calorias": 95
+    },
+    {
+      "Ingrediente": "Pechuga desmenuzada",
+      "Cantidad": "32",
+      "Calorias": 36
+    },
+    {
+      "Ingrediente": "Cilantro picado crudo",
+      "Cantidad": "1 3/4",
+      "Calorias": 24
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "10",
+      "Calorias": 440
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1",
+      "Calorias": 0
+    }
+  ],
+
+  "Procedencia": "México"
+}

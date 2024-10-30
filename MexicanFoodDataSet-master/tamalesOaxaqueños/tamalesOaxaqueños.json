@@ -1,0 +1,50 @@
+{
+  "TamalesOaxaqueños":  [
+      {
+        "Ingrediente": "Harina de maíz para tamales",
+        "Cantidad": "3",
+        "Calorias": "102"
+      },
+      {
+        "Ingrediente": "Pechuga de pollo cocida",
+        "Cantidad": "25",
+        "Calorias": "40"
+      },
+      {
+        "Ingrediente": "Caldo de pollo",
+        "Cantidad": "3/20",
+        "Calorias": "3"
+      },
+      {
+        "Ingrediente": "Manteca de cerdo",
+        "Cantidad": "4",
+        "Calorias": "156"
+      },
+      {
+        "Ingrediente": "Sal",
+        "Cantidad": "1",
+        "Calorias": "0"
+      },
+      {
+        "Ingrediente": "Ajo en polvo",
+        "Cantidad": "1",
+        "Calorias": "5"
+      },
+      {
+        "Ingrediente": "Cebolla blanca rebanada",
+        "Cantidad": "1/8",
+        "Calorias": "6"
+      },
+      {
+        "Ingrediente": "Chile poblano",
+        "Cantidad": "3/4",
+        "Calorias": "22"
+      },
+      {
+        "Ingrediente": "Chiles secos",
+        "Cantidad": "20",
+        "Calorias": "46"
+      }
+    ],
+    "Procedencia": "México-Oaxaca"
+}

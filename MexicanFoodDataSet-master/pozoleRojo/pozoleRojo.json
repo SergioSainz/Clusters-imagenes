@@ -1,0 +1,65 @@
+{
+	"pozoleRojo" : [
+		{
+			"Ingrediente" : "Maíz pozolero",
+			"Cantidad" : "3",
+			"Calorias" : 174
+		},
+		{
+			"Ingrediente" : "Cabeza de cerdo",
+			"Cantidad" : "2.02",
+			"Calorias" : 111.1
+		},
+		{
+			"Ingrediente" : "Ajo en polvo",
+			"Cantidad" : "15",
+			"Calorias" : 75
+		},
+		{
+			"Ingrediente" : "Chile de árbol seco",
+			"Cantidad" : "3/4",
+			"Calorias" : 15.75
+		},
+		{
+			"Ingrediente" : "Cebolla blanca rebanada",
+			"Cantidad" : "7/4",
+			"Calorias" : 39.5
+		},
+		{
+			"Ingrediente" : "Sal",
+			"Cantidad" : "4",
+			"Calorias" : 0
+		},
+		{
+			"Ingrediente" : "Pimienta",
+			"Cantidad" : "1",
+			"Calorias" : 5
+		},
+		{
+			"Ingrediente" : "Rábano crudo rebanado",
+			"Cantidad" : "7/5",
+			"Calorias" : 29.4
+		},
+		{
+			"Ingrediente" : "Lechuga",
+			"Cantidad" : "2.12",
+			"Calorias" : 48.8
+		},
+		{
+			"Ingrediente" : "Orégano",
+			"Cantidad" : "1",
+			"Calorias" : 6
+		},
+		{
+			"Ingrediente" : "Chiles secos",
+			"Cantidad" : "21/5",
+			"Calorias" : 96.6
+		},
+		{
+			"Ingrediente" : "Agua",
+			"Cantidad" : "83/5",
+			"Calorias" : 33.2
+		}
+		
+	]
+}

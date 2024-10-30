@@ -1,0 +1,76 @@
+{
+  "HuevosRancheros": [
+    {
+      "Ingrediente": "Huevo frito",
+      "Cantidad": "2",
+      "Calorias": 180
+    },
+    {
+      "Ingrediente": "Tortilla",
+      "Cantidad": "2",
+      "Calorias": 128
+    },
+    {
+      "Ingrediente": "Cebolla",
+      "Cantidad": "1/4",
+      "Calorias": 23
+    },
+    {
+      "Ingrediente": "Jitomate saladet",
+      "Cantidad": "1",
+      "Calorias": 11
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1",
+      "Calorias": 10
+    },
+    {
+      "Ingrediente": "Chile jalape\u00f1o",
+      "Cantidad": "3/6",
+      "Calorias": 12.5
+    },
+    {
+      "Ingrediente": "Cilantro picado crudo",
+      "Cantidad": "1/4",
+      "Calorias": 3.14
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Pimienta",
+      "Cantidad": "1",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Aceite",
+      "Cantidad": "4",
+      "Calorias": 176
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "1/2",
+      "Calorias": 1
+    },
+    {
+      "Ingrediente": "Frijoles refritos",
+      "Cantidad": "1/3",
+      "Calorias": 95
+    },
+    {
+      "Ingrediente": "Perejil crudo picado",
+      "Cantidad": "1/4",
+      "Calorias": 5.5
+    },
+    {
+      "Ingrediente": "Aguacate california",
+      "Cantidad": "1/3",
+      "Calorias": 54
+    }
+  ],
+
+  "Procedencia": "México"
+}

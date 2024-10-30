@@ -1,0 +1,56 @@
+{
+  "arrozRojo": [
+    {
+      "Ingrediente": "Aceite comestible",
+      "Cantidad": "20 chucharadita",
+      "Calorias": 880
+    },
+    {
+      "Ingrediente": "Arroz crudo",
+      "Cantidad": "220 g",
+      "Calorias": 1584
+    },
+    {
+      "Ingrediente": "Jitomate saladet",
+      "Cantidad": "3 pieza",
+      "Calorias": 33
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1/4 taza",
+      "Calorias": 11.5
+    },
+    {
+      "Ingrediente": "Ajo molido",
+      "Cantidad": "1/2 chucharadita",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "2 taza",
+      "Calorias": 4
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1/2 chucharadita",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Zanahoria picada cruda",
+      "Cantidad": "1/4 taza",
+      "Calorias": 13
+    },
+    {
+      "Ingrediente": "Chicharo cocido sin vaina",
+      "Cantidad": "1/4",
+      "Calorias": 33.75
+    },
+    {
+      "Ingrediente": "Cubo consome",
+      "Cantidad": "1/2 pieza",
+      "Calorias": 24
+    }
+  ],
+
+  "Procedencia": "México"
+}

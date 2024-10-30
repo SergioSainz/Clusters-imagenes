@@ -1,0 +1,66 @@
+{
+  "TacosAlPastor": [
+    {
+      "Ingrediente": "Cebolla blanca",
+      "Cantidad": "1/8 de taza",
+      "Calorias": 5.75
+    },
+    {
+      "Ingrediente": "Chile de arbol",
+      "Cantidad": "0.41 de pieza",
+      "Calorias": 1.66
+    },
+    {
+      "Ingrediente": "Tortilla de maiz",
+      "Cantidad": "1 pieza",
+      "Calorias": 64
+    },
+    {
+      "Ingrediente": "Achiote en pasta",
+      "Cantidad": "12g",
+      "Calorias": 20
+    },
+    {
+      "Ingrediente": "Naranja",
+      "Cantidad": "1/6 Pieza",
+      "Calorias": 6
+    },
+    {
+      "Ingrediente": "Vinagre de manzana",
+      "Cantidad": "16.66g",
+      "Calorias": 2.66
+    },
+    {
+      "Ingrediente": "Milanesa de cerdo",
+      "Cantidad": "1/3 de pieza",
+      "Calorias": 154
+    },
+    {
+      "Ingrediente": "Diente de ajo",
+      "Cantidad": "1/8 de pieza",
+      "Calorias": 0.5
+    },
+    {
+      "Ingrediente": "Chile guajillo ",
+      "Cantidad": "1/12 de pieza",
+      "Calorias": 0.33
+    },
+    {
+      "Ingrediente": "Piña",
+      "Cantidad": "1/6 de rebanada",
+      "Calorias": 7
+    },
+    {
+      "Ingrediente": "Cilantro picado",
+      "Cantidad": "1/8 de taza",
+      "Calorias": 4
+    },
+    {
+      "Ingrediente": "Cebolla blanca picada",
+      "Cantidad": "1/8 de taza",
+      "Calorias": 5.75
+    }
+  ],
+
+  "Procedencia": "México-Puebla"
+}

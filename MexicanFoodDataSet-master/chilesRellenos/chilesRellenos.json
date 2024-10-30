@@ -1,0 +1,61 @@
+{
+  "chilesRellenos": [
+    {
+      "Ingrediente": "Chile poblano",
+      "Cantidad": "1",
+      "Calorias": 30
+    },
+    {
+      "Ingrediente": "Queso Oaxaca",
+      "Cantidad": "50",
+      "Calorias": 158.333
+    },
+    {
+      "Ingrediente": "Huevo fresco",
+      "Cantidad": "3/5",
+      "Calorias": 37.8
+    },
+    {
+      "Ingrediente": "Harina de maiz",
+      "Cantidad": "3/5",
+      "Calorias": 15.6
+    },
+    {
+      "Ingrediente": "Jitomate guaje o saladet",
+      "Cantidad": "4/5",
+      "Calorias": 8.8
+    },
+    {
+      "Ingrediente": "Ajo en polvo",
+      "Cantidad": "1/15",
+      "Calorias": 0.666
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1/20",
+      "Calorias": 2.3
+    },
+    {
+      "Ingrediente": "Cubo de consomé",
+      "Cantidad": "1/10",
+      "Calorias": 4.8
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1/10",
+      "Calorias": 0
+    },
+    {
+      "Ingrediente": "Aceite comestible",
+      "Cantidad": "10",
+      "Calorias": 440
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "1/10",
+      "Calorias": 0.2
+    }
+  ],
+
+  "Procedencia": "México-Puebla"
+}

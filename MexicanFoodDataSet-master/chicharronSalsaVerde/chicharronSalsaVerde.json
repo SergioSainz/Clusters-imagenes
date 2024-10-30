@@ -1,0 +1,45 @@
+{
+  "chicharronSalsaVerde": [
+    {
+      "Ingrediente": "Tomate verde",
+      "Cantidad": "10 pieza",
+      "Calorias": 42
+    },
+    {
+      "Ingrediente": "Chicharron",
+      "Cantidad": "100 g",
+      "Calorias": 600
+    },
+    {
+      "Ingrediente": "Aceite comestible",
+      "Cantidad": "1 chucharadita",
+      "Calorias": 44
+    },
+    {
+      "Ingrediente": "Cilantro picado crudo",
+      "Cantidad": "1/3 taza",
+      "Calorias": 4.6
+    },
+    {
+      "Ingrediente": "Cebolla blanca rebanada",
+      "Cantidad": "1/5 taza",
+      "Calorias": 9.2
+    },
+    {
+      "Ingrediente": "Ajo molido",
+      "Cantidad": "1 chucharadita",
+      "Calorias": 10
+    },
+    {
+      "Ingrediente": "Agua",
+      "Cantidad": "1 taza",
+      "Calorias": 2
+    },
+    {
+      "Ingrediente": "Sal",
+      "Cantidad": "1/2 chucharadita",
+      "Calorias": 0
+    }
+  ],
+  "Procedencia": "México"
+}

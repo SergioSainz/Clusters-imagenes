@@ -1,0 +1,36 @@
+{
+  "milanesadepollo": [
+    {
+      "Ingrediente": "milanesa de pollo",
+      "Cantidad": "120 gramos",
+      "Calorias": 136
+    },
+    {
+      "Ingrediente": "aceite",
+      "Cantidad": "1/2 Litro",
+      "Calorias": 1320
+    },
+    {
+      "Ingrediente": "pan molido",
+      "Cantidad": "1 Taza",
+      "Calorias": 132
+    },
+    {
+      "Ingrediente": "cebolla",
+      "Cantidad": "3/2 cucharadas",
+      "Calorias": 12
+    },
+    {
+      "Ingrediente": "ajo",
+      "Cantidad": "1/2 cucharadas",
+      "Calorias": 5
+    },
+    {
+      "Ingrediente": "cebolla",
+      "Cantidad": "1/2 taza",
+      "Calorias": 1
+    }
+  ],
+
+  "Procedencia": "México"
+}
